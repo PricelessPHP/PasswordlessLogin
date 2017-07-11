@@ -1,2 +1,2 @@
 # Password-less Login
-Password-less Login written in PHP
+Password-less authentication written in PHP
